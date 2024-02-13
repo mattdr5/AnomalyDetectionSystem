@@ -17,8 +17,17 @@ L'obiettivo principale del processo di evoluzione del sistema è stato apportare
 
 ## Installazione
 
-Questo progetto è stato sviluppato utilizzando Python 3.10.12. È consigliato utilizzare Google Colab per eseguire gli esperimenti. Puoi installare le dipendenze necessarie eseguendo all'interno dell'ambiente di sviluppo:
+Questo progetto è stato sviluppato utilizzando Python 3.10.12. È consigliato utilizzare Google Colab per eseguire gli esperimenti. Ecco come puoi eseguire il progetto su Google Colab:
 
-```bash
-pip install -r requirements.txt
+1. Esporta la cartella principale del progetto nel tuo Google Drive.
+2. Esegui il mount del tuo Google Drive utilizzando il seguente codice:
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
 ```
+3. Spostati nella cartella principale del progetto utilizzando il comando cd seguito dal percorso della cartella. Ad esempio:
+```bash
+cd /content/drive/MyDrive/path_to_your_project
+```
+4. Divertiti!
