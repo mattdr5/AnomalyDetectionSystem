@@ -31,3 +31,4 @@ drive.mount('/content/drive')
 cd /content/drive/MyDrive/path_to_your_project
 ```
 4. Divertiti!
+    - Per questione di spazione nella cartella datasets sono salvati i dataset compressi, è richiesta l'estrazione nella cartella dove sono memorizzati
