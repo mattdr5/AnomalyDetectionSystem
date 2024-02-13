@@ -1,7 +1,0 @@
-Average Accuracy over 10 runs: 0.9224358974358975
-Average Precision over 10 runs: 0.7179485523098295
-Average Recall over 10 runs: 0.9758740995201908
-Average F1-score over 10 runs: 0.8270116557599397
-Average Confusion Matrix:
-229 22
-1 58
